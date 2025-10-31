@@ -10,7 +10,7 @@ The dataset includes attributes such as *genre, production company, budget, ROI,
 ![Page 1](images/Page_1.png)
 ![Page 1](images/Page_1_filter.png)
 ![Page 2](images/2nd_Page.png)
-[![Dashboard Preview](preview/Preview.mp4)]
+
 The dashboard helps to identify:
 
 - Which genres, countries, and companies consistently achieve higher ROI.  
